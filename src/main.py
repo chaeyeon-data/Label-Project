@@ -64,7 +64,7 @@ def save_to_csv(labels_content, output_filepath):
     with open(output_filepath, 'w', newline='', encoding='utf-8-sig') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerows(rows)
-    
+
 # Function to remove duplicates from content list
 def remove_duplicates(content_list):
     return list(dict.fromkeys(content_list))
