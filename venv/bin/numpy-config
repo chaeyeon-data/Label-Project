@@ -1,4 +1,4 @@
-#!/Users/chaeyeonkim/Labels-Project/venv/bin/python3.12
+#!/Users/chaeyeonkim/Projects/Labels-Project/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
